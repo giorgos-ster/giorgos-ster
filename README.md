@@ -38,7 +38,7 @@
 + >File_organizer_script: "A small python script to automate daily task" -Python - https://github.com/giorgos-ster/file-organizer
 
 - >[giorgos_ster@matrix ~]$ cat skills.txt
-+ >Programming Languages: Python, JavaScript, Java, C, C#, C++, Prolog, Haskel
++ >Programming Languages: Python, JavaScript, Java, C, C#, C++, Prolog, Haskell
 + >Frontend: React, HTML, CSS, Bootstrap
 + >Backend: Django, Ruby on Rails
 + >Databases: SQL
