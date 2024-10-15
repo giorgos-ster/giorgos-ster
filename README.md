@@ -34,7 +34,7 @@
 - >[giorgos_ster@matrix ~]$ cd..
 - >[giorgos_ster@matrix ~]$ ls projects/
 + >Rick&Morty: "A frontend implementation for Rick&Morty API" - React - https://github.com/giorgos-ster/Rick-Morty
-+ >NHL: "A frontend implementation for NHL API" - React -[https://github.com/giorgos-ster/Rick-Morty](https://github.com/giorgos-ster/nhl_site
++ >NHL: "A frontend implementation for NHL API" - React - https://github.com/giorgos-ster/nhl_site
 + >File_organizer_script: "A small python script to automate daily task" -Python - https://github.com/giorgos-ster/file-organizer
 
 - >[giorgos_ster@matrix ~]$ cat skills.txt
